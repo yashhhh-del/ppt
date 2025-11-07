@@ -1,0 +1,12 @@
+streamlit
+openai
+python-pptx
+requests
+beautifulsoup4
+lxml
+numpy
+pandas
+python-dotenv
+pillow
+reportlab
+matplotlib
