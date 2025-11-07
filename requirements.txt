@@ -10,3 +10,4 @@ python-dotenv
 pillow
 reportlab
 matplotlib
+newspaper3k
